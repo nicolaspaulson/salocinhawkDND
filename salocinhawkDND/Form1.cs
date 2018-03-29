@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace salocinhawkDND
 {
-    public partial class Form1 : Form
+    public partial class DND : Form
     {
-        public Form1()
+        public DND()
         {
             InitializeComponent();
         }
